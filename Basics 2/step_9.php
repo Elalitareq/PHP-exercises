@@ -2,7 +2,7 @@
 $num = 16;
 $sqrt = sqrt($num);
 echo $sqrt."\n";
-// this function i created using recursion it keeps going until the difference is < 0.0001
+////this function i created using recursion it keeps going until the difference is < 0.0001
 // function squareRoot($number, $guess = null) {
 //     if ($guess === null) {
 //       $guess = $number / 2;
