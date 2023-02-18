@@ -17,7 +17,7 @@ function count_word_occurrences($text, $word)
     return $count; 
 }
 
-$sentence = 'The quick brown fox jumps over the lazy dog';
+$sentence = 'the life is hard lakin the life is jamila';
 $word = 'the';
 $count = count_word_occurrences($sentence, $word);
 echo "The word '{$word}' appears {$count} times in the sentence: '{$sentence}'";
